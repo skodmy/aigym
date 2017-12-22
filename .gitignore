@@ -99,3 +99,27 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# assets
+assets/
+
+# checkpoints
+checkpoints/
+
+# datasets
+datasets/
+
+# haarcascade_files
+haarcascade_files/
+
+# learn_logs
+learn_logs/
+
+#models
+models/
+
+# aigym.log
+aigym.log
+
+# idea
+.idea/
